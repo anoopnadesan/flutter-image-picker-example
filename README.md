@@ -1,4 +1,4 @@
-# mynativeapp
+# places with image picker
 
 A new Flutter project.
 
